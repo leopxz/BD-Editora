@@ -4,6 +4,8 @@ Projeto de avaliação da 1 unidade do segundo periodo, consistem nas informaç�
 
 ● Escolha um dos minimundos abaixo e desenvolva o seu projeto;
 
+● grupo de 3 pessoas no maximo.
+
 ● Elabora os diagramas do minimundo (domínios de negócio) escolhido:
 
 o Modelagens de entidade relacionamento (MER)
